@@ -4,5 +4,5 @@
 - About me
 - List of project that I have done for learning purpose
 - Details of prefession and education
-- Conatact me
+- Contact me
 - Social contact 😇️
