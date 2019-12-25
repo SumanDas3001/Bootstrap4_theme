@@ -3,6 +3,6 @@
 - Download resume as a pdf
 - About me
 - List of project that I have done for learning purpose
-- Details of prefession and education
+- Details of profession and education
 - Contact me
 - Social contact 😇️
